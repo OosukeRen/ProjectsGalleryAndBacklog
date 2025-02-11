@@ -6,6 +6,8 @@
 
 - [ ] [XPLor](https://github.com/RenOosuke/xplor)
 
+- [ ] [dependency-less sqlite3 JS orm](#) - private until npm module uploaded
+
 # To return to
 - [ ] [Gotot 3.1 and 4.X.X for windows XP](#) - need to commit to github
 
@@ -31,3 +33,9 @@
 - [ ] [Giant open source proprietary knowledgebase](#)
 
 - [ ] [Archived old softwares distribution application](#)
+
+- [ ] [PS1 homebrew ports of Windows XP era 2d games]($)
+
+- [ ] [PSP homebrew ports of Windows XP era 2d games]($)
+
+- [ ] [PSVita homebrew ports of Windows XP era 2d games]($)
